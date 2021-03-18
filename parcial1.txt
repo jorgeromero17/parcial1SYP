@@ -15,3 +15,7 @@ Sistemas cerrados: Una olla de presion, jardin sellado en frasco, un globo infla
 4- Medio que utiliza una empresa para lograr sus objetivos. Nos estamos refiriendo a: (5%)
 Nos estamos refiriendo a un sistema, estos son los medios por los cuales el personal de una empresa opera para
 lograr los objetivos de ella.
+
+5- ¿Qué comparativo nos permite saber rápidamente que ha llegado el momento de tomar decisiones correctivas ? (5%)
+Un mecanismo de control con comparación de los resultados obtenidos con las metas esperadas, así como la toma de decisiones
+correctivas en su caso.
