@@ -1,3 +1,8 @@
 1- Explique con sus palabras, qué entiende por sistema. (5%)
 Un sistema es un conjunto de partes que forman un todo, debidamente interrelacionadas de manera lógica para alcanzar 
 un determinado fin.
+
+Mencione 3 ejemplos de sistemas abiertos y 3 ejemplos de sistemas cerrados (deben ser ejemplos distintos a los
+comentados en clase). (5%)
+Sistemas abiertos: La tierra (el planeta), una computadora con conexion a internet, el cuerpo humano.
+Sistemas cerrados: Una olla de presion, jardin sellado en frasco, un globo inflado.
