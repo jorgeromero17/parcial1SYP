@@ -2,7 +2,12 @@
 Un sistema es un conjunto de partes que forman un todo, debidamente interrelacionadas de manera lógica para alcanzar 
 un determinado fin.
 
-Mencione 3 ejemplos de sistemas abiertos y 3 ejemplos de sistemas cerrados (deben ser ejemplos distintos a los
+2- Mencione 3 ejemplos de sistemas abiertos y 3 ejemplos de sistemas cerrados (deben ser ejemplos distintos a los
 comentados en clase). (5%)
 Sistemas abiertos: La tierra (el planeta), una computadora con conexion a internet, el cuerpo humano.
 Sistemas cerrados: Una olla de presion, jardin sellado en frasco, un globo inflado.
+
+
+3- ¿Qué limitaciones significativas se tendrían si no aplicamos un enfoque de sistemas? (5%)
+- Una visión reduccionista del universo, centrada en objetos aislados.
+- Un aislamiento disciplinario
