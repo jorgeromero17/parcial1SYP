@@ -19,3 +19,7 @@ lograr los objetivos de ella.
 5- ¿Qué comparativo nos permite saber rápidamente que ha llegado el momento de tomar decisiones correctivas ? (5%)
 Un mecanismo de control con comparación de los resultados obtenidos con las metas esperadas, así como la toma de decisiones
 correctivas en su caso.
+
+6- Explique ¿por qué la toma de decisiones estratégicas en una organización, sería mejor utilizando sistemas informáticos? (5%)
+Porque en un sistema informático tenemos todos los procesos que se realizan dentro de una organización, toda la información 
+esta ordenada en este y se pueden tomar mejores decisiones a traves de interpretar esta información.
