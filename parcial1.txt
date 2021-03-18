@@ -23,3 +23,6 @@ correctivas en su caso.
 6- Explique ¿por qué la toma de decisiones estratégicas en una organización, sería mejor utilizando sistemas informáticos? (5%)
 Porque en un sistema informático tenemos todos los procesos que se realizan dentro de una organización, toda la información 
 esta ordenada en este y se pueden tomar mejores decisiones a traves de interpretar esta información.
+
+7- ¿Bajo el punto de vista de unidad productiva, qué es una organización? (5%)
+es una entidad social orientada hacia la consecucion de metas con base en un sistema coordinado y estructurado vinculado en un entorno
